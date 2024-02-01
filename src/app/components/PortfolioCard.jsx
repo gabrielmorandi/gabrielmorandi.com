@@ -47,7 +47,7 @@ export default function PortfolioCard({
             </Link>
           </div>
           <div className="flex h-10">
-            <ButtonBlend text="Visitar Website" url={websiteUrl} />
+            <ButtonBlend text="Access website" url={websiteUrl} />
           </div>
         </div>
       </div>

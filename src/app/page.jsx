@@ -21,8 +21,8 @@ export default function Home() {
             Frontend Enginner.
           </h2>
           <h3 className="fade-up-stagger max-w-[600px] text-lg">
-            Gosto de criar produtos front-end sólidos, responsivos e escaláveis
-            ​​com ótimas experiências de usuário.
+            I like creating solid, responsive, and scalable front-end products
+            with great user experiences.
           </h3>
           <div className="flex flex-wrap gap-2">
             <LinkHero
